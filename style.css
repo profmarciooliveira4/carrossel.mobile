@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  background: #D3D3D3;
+}
+
+.carrossel__titulo{
+  color: orange;
+  background-color: white;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.pic-ctn {
+  width: 100vw;
+  height: 200px;
+}
+
